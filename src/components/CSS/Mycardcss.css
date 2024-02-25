@@ -1,0 +1,16 @@
+.card {
+  width: 200px;
+}
+.card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.content {
+  flex: 1;
+}
+
+.Badge {
+  margin-top: auto; /* Coloca el Badge al final del contenedor */
+}
